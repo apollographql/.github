@@ -69,9 +69,9 @@ We will respect confidentiality requests for the purpose of protecting victims o
 
 GraphQL Summit prioritizes marginalized people’s safety over privileged people’s comfort. The administrators will not act on complaints regarding:
 
-- “Reverse”-isms, including “reverse racism,” “reverse sexism,” and “cisphobia”
-- Reasonable communication of boundaries, such as “leave me alone,” “go away,” or “I’m not discussing this with you.”
-- Communicating in a “tone” you don’t find congenial
+- “Reverse”-isms, including "reverse racism," "reverse sexism," and "cisphobia"
+- Reasonable communication of boundaries, such as "leave me alone," "go away," or "I’m not discussing this with you."
+- Communicating in a "tone" you don’t find congenial
 - Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
 - The examples listed above are not against the Code of Conduct.
 
