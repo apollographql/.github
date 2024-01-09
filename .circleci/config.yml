@@ -18,4 +18,3 @@ workflows:
             - secops-oidc
             - github-orb
           git-base-revision: <<#pipeline.git.base_revision>><<pipeline.git.base_revision>><</pipeline.git.base_revision >>
-          git-revision: << pipeline.git.revision >>
