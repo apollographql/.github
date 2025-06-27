@@ -48,6 +48,7 @@ We're looking to speak with developers who use Apollo to better understand your 
 👉 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfXrtLQb01_1zwYMpFH54krgYu_xGR6TjhxExER6lpXT8ppOg/viewform?usp=header" target="_blank">Fill out this short form<a>
 
 Your feedback directly helps us shape the future of Apollo—thank you!
+
 </td>
 </tr>
 
