@@ -1,6 +1,9 @@
 ##  🚀 Welcome to [Apollo GraphQL](https://www.apollographql.com/?utm_campaign=2023-github-readme&utm_source=github-readme)!
 
-We create tools and libraries to help you build, manage, and scale your GraphQL API and the apps that use it.  
+Open-source GraphQL tools for modern API development: client libraries, server frameworks, and AI agent integration (MCP Server). Used by millions of developers and trusted at enterprise scale.
+
+A community building open source GraphQL tools for clients, servers, and agents.
+
 **Here are a few links to get you started:**
 
 <table>
