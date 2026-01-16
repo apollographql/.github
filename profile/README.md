@@ -41,19 +41,5 @@ https://github.com/apollographql/.github/assets/1368445/3c76ef51-16cf-4ddf-b045-
 </td>
 </tr>
 
-<tr>
-<td>
-  
-### 👋 Help Us Improve Apollo
-  
-We're looking to speak with developers who use Apollo to better understand your needs and workflows. If you're open to a short (30 min) conversation with our engineering team, we'd love to hear from you.
-
-👉 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfXrtLQb01_1zwYMpFH54krgYu_xGR6TjhxExER6lpXT8ppOg/viewform?usp=header" target="_blank">Fill out this short form<a>
-
-Your feedback directly helps us shape the future of Apollo—thank you!
-
-</td>
-</tr>
-
 </tbody>
 </table>
